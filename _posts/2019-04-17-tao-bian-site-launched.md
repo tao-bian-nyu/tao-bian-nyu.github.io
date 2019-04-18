@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Tao Bian, Ph.D, Launches Site"
+title: "Tao Bian, Launches Site"
 date: 2019-04-17
 ---
 
