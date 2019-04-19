@@ -151,7 +151,7 @@ Control and Decision.
     uncertainties and two types of delays," *International Journal of
     Robust and Nonlinear Control*, vol. 23, no. 2, pp. 190--207, 2013.
 
-###Book Chapters
+### Book Chapters
 
 1.  **T. Bian** and Z. P. Jiang, Stochastic adaptive dynamic programming
     for robust optimal control design. In K. G. Vamvoudakis and S.
@@ -159,7 +159,7 @@ Control and Decision.
     Applications*, chapter 7, pages 211--245. Butterworth-Heinemann,
     Cambridge, MA, 2016.
 
-###Conferences
+### Conferences
 
 1.  B. Pang, **T. Bian** and Z. P. Jiang, "Data-driven finite-horizon
     optimal control for linear time-varying discrete-time systems," in
