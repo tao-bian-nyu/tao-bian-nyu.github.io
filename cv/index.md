@@ -11,7 +11,7 @@ tbian@nyu.edu
 ------
 
 
-###Experience
+### Experience
 
 **Bank of America Merrill Lynch**, New York, NY
 
@@ -22,7 +22,7 @@ tbian@nyu.edu
 
 *Research assistant* 09/2012--05/2017
 
-###Education
+### Education
 
 
 **New York University, Tandon School of Engineering**, Brooklyn, NY
@@ -42,7 +42,7 @@ $\bullet$ Advisor: Prof. Zhong-Ping Jiang
 *B.E. in Automation*, GPA: 85/100 06/2012
 
 
-###Honors and Awards
+### Honors and Awards
 
 
 $\bullet$ Alexander Hessel Award for the Best Ph.D. Dissertation in Electrical and
@@ -67,7 +67,7 @@ Engineering at NYU Tandon school of engineering. (05/2015)
 
 $\bullet$ Excellent Bachelor Thesis in Hubei Province, China. (06/2012)
 
-###Professional Service
+### Professional Service
 
 **The IEEE conferences on CIS & RAM, 2015**
 
@@ -78,7 +78,7 @@ $\bullet$ Track cochair of invited session - New Results in Systems and Control
 
 $\bullet$ Chair of regular session - Neural Networks
 
-###Referee Service
+### Referee Service
 
 IEEE Transactions on Automatic Control, Automatica, Systems & Control
 Letters, SIAM Journal on Control and Optimization, IEEE Transactions on
@@ -89,7 +89,7 @@ Control Theory and Applications, Neurocomputing, SCIENCE CHINA
 Information Sciences, Neural Computing and Applications, Journal of
 Control and Decision.
 
-###Journals
+### Journals
 
 1.  **T. Bian** and Z. P. Jiang, "Continuous-time robust dynamic
     programming," *SIAM Journal on Control and Optimization*, 2019,
