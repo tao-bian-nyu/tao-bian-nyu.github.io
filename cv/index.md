@@ -15,50 +15,47 @@ tbian@nyu.edu
 
 **Bank of America Merrill Lynch**, New York, NY
 
-* Assistent vice president; Quantitative finance analyst*
-06/2017--Present
+*Assistent vice president; Quantitative finance analyst*		06/2017--Present
 
 **New York University, Tandon School of Engineering**, Brooklyn, NY
 
-* Research assistant* 09/2012--05/2017
+*Research assistant*		09/2012--05/2017
 
 ### Education
 
-
 **New York University, Tandon School of Engineering**, Brooklyn, NY
 
-* Ph.D. in Electrical Engineering*, GPA: 4.0/4.0 05/2017
+*Ph.D. in Electrical Engineering*, GPA: 4.0/4.0		05/2017
 
   * Dissertation Topic: Biologically inspired adaptive optimal control and learning
   * Advisor: Prof. Zhong-Ping Jiang
 
-* M.S. in Electrical Engineering*, GPA: 4.0/4.0 05/2014
+*M.S. in Electrical Engineering*, GPA: 4.0/4.0		05/2014
 
   * Thesis Topic: Adaptive dynamic programming and optimal control of nonlinear nonaffine systems
   * Advisor: Prof. Zhong-Ping Jiang
 
 **Huazhong University of Science and Technology**, Wuhan, China
 
-* B.E. in Automation*, GPA: 85/100 06/2012
+*B.E. in Automation*, GPA: 85/100		06/2012
 
 
 ### Honors and Awards
 
+  * Alexander Hessel Award for the Best Ph.D. Dissertation in Electrical and Computer Engineering at NYU Tandon school of engineering.		(05/2018)
 
-  * Alexander Hessel Award for the Best Ph.D. Dissertation in Electrical and Computer Engineering at NYU Tandon school of engineering. (05/2018)
+  * NYU Commencement Class Representative for Tandon School of Engineering.		(05/2017)
 
-  * NYU Commencement Class Representative for Tandon School of Engineering. (05/2017)
+  * Steve and Rosalind Hsia Best Biomedical Paper Award at the 12th World Congress on Intelligent Control and Automation (WCICA 2016), Guilin, China.		(06/2016)
 
-  * Steve and Rosalind Hsia Best Biomedical Paper Award at the 12th World Congress on Intelligent Control and Automation (WCICA 2016), Guilin, China. (06/2016)
+  * Dante Youla Award for graduate research excellence in Electrical and Computer Engineering at NYU Tandon school of engineering.		(05/2016)
 
-  * Dante Youla Award for graduate research excellence in Electrical and Computer Engineering at NYU Tandon school of engineering. (05/2016)
-
-  * Best Student Paper Award - Finalist at the 7st IEEE International Conference on Cybernetics and Intelligent Systems (CIS) and Robotics, Automation and Mechatronics (RAM), Angkor Wat, Cambodia. (07/2015)
+  * Best Student Paper Award - Finalist at the 7st IEEE International Conference on Cybernetics and Intelligent Systems (CIS) and Robotics, Automation and Mechatronics (RAM), Angkor Wat, Cambodia.		(07/2015)
 
   * Theodor Tamir Award for Best MS Thesis in Electrical and Computer
-Engineering at NYU Tandon school of engineering. (05/2015)
+	Engineering at NYU Tandon school of engineering.		(05/2015)
 
-  * Excellent Bachelor Thesis in Hubei Province, China. (06/2012)
+  * Excellent Bachelor Thesis in Hubei Province, China.		(06/2012)
 
 ### Professional Service
 
