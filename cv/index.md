@@ -32,7 +32,7 @@ tbian@nyu.edu
 $\bullet$ Dissertation Topic: Biologically inspired adaptive optimal control and learning
 $\bullet$ Advisor: Prof. Zhong-Ping Jiang
 
-*M.S. in Electrical Engineering*, GPA: 4.0/4.0 05/2014
+  * M.S. in Electrical Engineering*, GPA: 4.0/4.0 05/2014
 
 $\bullet$ Thesis Topic: Adaptive dynamic programming and optimal control of nonlinear nonaffine systems
 $\bullet$ Advisor: Prof. Zhong-Ping Jiang
