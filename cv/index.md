@@ -4,7 +4,7 @@ title: "CV"
 ---
 
 
-##### Tao Bian, Ph.D.
+### Tao Bian, Ph.D.
 
 tbian@nyu.edu
 
