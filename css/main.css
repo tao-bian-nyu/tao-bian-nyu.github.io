@@ -26,7 +26,17 @@ p {
     line-height: 1.4em;
     color: #333;
 }
+
+page-container {
+  position: relative;
+  min-height: 100vh;
+}
+content-wrap {
+  padding-bottom: 2.5rem;    /* Footer height */
+}
+
 footer {
+/*   height: 2.5rem;            /* Footer height */ */
     position: absolute;
     bottom: 0;
     width: 100%;
