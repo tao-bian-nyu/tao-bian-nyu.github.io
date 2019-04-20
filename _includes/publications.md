@@ -1,8 +1,3 @@
-### Dissertation 
-
-**T. Bian**, *Biologically inspired adaptive optimal control and learning*. PhD thesis, New York University, Tandon School of Engineering, Department of Electrical and Computer Engineering, Brooklyn, NY, May 2017.
-
-
 ### Journals
 
 1.  **T. Bian** and Z. P. Jiang, "Continuous-time robust dynamic programming," *SIAM Journal on Control and Optimization*, 2019, under review. ArXiv e-prints, abs/1804.04577
@@ -64,3 +59,7 @@
 13. **T. Bian**, Y.-W. Wang, and J.-W. Xiao, "Robust stability criteria for neural Cohen-Grossberg networks with both time-varying delay and parametric uncertainties," in *Proceedings of the 2nd International Conference on Intelligent Control and Information Processing (ICICIP)*, vol. 2, pp. 579--584, July 2011.
 
 14. **T. Bian** and Y.-W. Wang, "Average consensus of multi-agent systems under logarithm quantized communications," in *Proceedings of the 12th International Conference on Control Automation Robotics Vision (ICARCV)*, pp. 418--423, Dec 2012.
+
+### Dissertation 
+
+**T. Bian**, *Biologically inspired adaptive optimal control and learning*. PhD thesis, New York University, Tandon School of Engineering, Department of Electrical and Computer Engineering, Brooklyn, NY, May 2017.
