@@ -8,21 +8,21 @@ date: 2017-04-13
 
 #### Background: Reinforcement learning (RL) and adaptive dynamic programming (ADP)
 
-##### What is RL?
+- What is RL?
 
 <p align="center">
 <img src="/images/RL.pdf" width="80%">
 </p>
 
-- > "Reinforcement" is a form of learning in which "an element, $X$, of the behavior" of an object, $M$, is caused to become more (or less!) "prominent" in the future behavior of $M$ as a result of the "activation" of a special entity or process, $Z$, called the "reinforcement operator !") within a (relatively) short time after an occurrence of $X$. 
+> "Reinforcement" is a form of learning in which "an element, $$X$$, of the behavior" of an object, $$M$$, is caused to become more (or less!) "prominent" in the future behavior of $$M$$ as a result of the "activation" of a special entity or process, $$Z$$, called the "reinforcement operator !") within a (relatively) short time after an occurrence of $$X$$. 
+>
+> -- <cite> Minsky. Theory of neural-analog reinforcement systems and its application to the brain model problem, 1954. </cite>
 
-    — Minsky. Theory of neural-analog reinforcement systems and its application to the brain model problem, 1954.
+> Reinforcement learning is learning what to do--how to map situations to actions--so as to maximize a numerical reward signal. 
+>  
+> -- <cite> Sutton and Barto. Reinforcement Learning: An Introduction, 1998. </cite>
 
--   > Reinforcement learning is learning what to do--how to map situations to actions--so as to maximize a numerical reward signal. 
-  
-    — Sutton and Barto. Reinforcement Learning: An Introduction, 1998.
-
-##### From RL to ADP
+- From RL to ADP
 
 Drawbacks of RL:
 
