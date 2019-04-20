@@ -24,19 +24,19 @@ date: 2017-04-13
 
 - From RL to ADP
 
-Drawbacks of RL:
+  Drawbacks of RL:
 
--   Not applicable to dynamical systems (continuous-state-action space).
+  -   Not applicable to dynamical systems (continuous-state-action space).
 
--   The stability issue is usually overlooked.
+  -   The stability issue is usually overlooked.
 
-A solution:
+  A solution:
 
-<p align="center">
-<img src="/images/ADP.pdf" width="50%">
-</p>
+  <p align="center">
+  <img src="/images/ADP.pdf" width="50%">
+  </p>
 
-Adaptive dynamic programming (ADP) aims at finding a stabilizing optimal control policy for dynamical systems via online learning.
+  Adaptive dynamic programming (ADP) aims at finding a stabilizing optimal control policy for dynamical systems via online learning.
 
 
 
