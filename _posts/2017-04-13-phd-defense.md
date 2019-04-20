@@ -11,7 +11,7 @@ date: 2017-04-13
 ##### What is RL?
 
 <p align="center">
-<img src="../images/RL.pdf" width="80%">
+<img src="../../images/RL.pdf" width="80%">
 </p>
 
 - > "Reinforcement" is a form of learning in which "an element, $X$, of the behavior" of an object, $M$, is caused to become more (or less!) "prominent" in the future behavior of $M$ as a result of the "activation" of a special entity or process, $Z$, called the "reinforcement operator !") within a (relatively) short time after an occurrence of $X$. 
