@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "Biologically Inspired Adaptive Optimal Control and Learning"
+title: "Tao's Ph.D. defense presentation"
 date: 2017-04-13
 ---
 
-<h2>{{ page.title }}</h2>
+<h2>Biologically Inspired Adaptive Optimal Control and Learning</h2>
 
 #### Background: Reinforcement learning (RL) and adaptive dynamic programming (ADP)
 
