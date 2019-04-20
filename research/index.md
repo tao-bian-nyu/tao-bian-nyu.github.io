@@ -21,5 +21,7 @@ Our method is fundamentally based on RL theory. However, different from traditio
 	
 {% include publications.md %}
 
+{% include lib/mathjax.html %}
+
 
 
