@@ -20,9 +20,11 @@ Our method is fundamentally based on RL theory. However, different from traditio
 
 {% include topics.html %}
 	
+</div>
+
 ## Publication list:
 	
 {% include publications.md %}
 
 
-</div>
+
