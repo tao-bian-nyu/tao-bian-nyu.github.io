@@ -1,3 +1,8 @@
+### Dissertation 
+
+**T. Bian**, *Biologically inspired adaptive optimal control and learning*. PhD thesis, New York University, Tandon School of Engineering, Department of Electrical and Computer Engineering, Brooklyn, NY, May 2017.
+
+
 ### Journals
 
 1.  **T. Bian** and Z. P. Jiang, "Continuous-time robust dynamic programming," *SIAM Journal on Control and Optimization*, 2019, under review. ArXiv e-prints, abs/1804.04577
