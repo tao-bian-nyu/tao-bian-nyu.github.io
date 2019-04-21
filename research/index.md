@@ -13,7 +13,9 @@ My research interest is in dynamic programming theory with special focus on its 
 
 <!--- Our method is fundamentally based on RL theory. However, different from traditional RL methods, we take into account both stability and robustness in our algorithm. -->
 
-
+<p align="center">
+<img src="/images/ADP-mindmap.pdf" width="60%">
+</p>
 
 {% include topics.html %}
 	
