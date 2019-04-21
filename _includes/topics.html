@@ -1,4 +1,4 @@
-<h2>Dynamic Programming (DP) and Value Iteration (VI)</h2>
+<h2>Dynamic Programming (DP)</h2>
 <p> Originated by Bellman in 1959 as a fundamental DP algorithm, VI has been widely adopted to find optimal policies for different types of systems. <br> 
 However, despite its popularity in the science community, VI is flawed as it is only applicable for discrete-time models. </p>
 <!--   For the past few decades, researchers have been puzzled by how to extend traditional VI to the continuous-time setting. </p>  -->
@@ -7,18 +7,22 @@ However, despite its popularity in the science community, VI is flawed as it is 
 <div class="one">
 <img src="../images/VI_algorithm.gif" alt="Continuous-time VI" style="width:600px;height:400px;">
 <!-- <img src="../images/VI_algorithm.gif" alt="Continuous-time VI">  -->
+ <p> VI starts from a nonnegative initial value \(V_0\). The algorithm converges to the optimal value \(V^*\) asymptotically. </p>
 </div>
 <div class="two">
- <h3> Value iteration in continuous-time</h3> 
+ <h3> Value iteration (VI) and policy iteration (PI) in continuous-time</h3> 
 <!--  have made a breakthrough on this long-standing issue, by  -->
- <p> In this research work, we developed a complete framework of continuous-time VI with rigorous convergence analysis.</p>
-<p> Starting from an initial value function \(V_0\), the \(V_t\) converges to the optimal value function \(V^*\). </p>
+ <p> In this research work, we developed a series of continuous-time VI and PI algorithms.</p>
 </div>
-<!-- <div class="three">Three</div>
-<div class="four">Four</div> -->
+<div class="three">
+  <img src="../images/VI_algorithm.pdf" alt="Cart Pole via Deep ADP" style="width:60px;height:40px;">
+</div>
+<div class="four">
+  <p> PI starts from an admissible policy \(\mu_0\). </p>
+ </div>
 </div>
 
-<h2>Reinforcement Learning (RL) and Adaptive (DP)</h2>
+<h2>Reinforcement Learning (RL) and Adaptive DP</h2>
 <p> The idea of RL, first introduced by Minsky in 1954, is to provide an understanding of activities such as the learning, memorizing, and thinking processes in human brain, and ultimately construct a system that can duplicate these “sentient”.</p> 
 <div class="wrapper">
 <div class="one">
@@ -29,8 +33,10 @@ However, despite its popularity in the science community, VI is flawed as it is 
 <p> In this research work, we developed a new RL technique, under the name of adaptive DP, for continuous learning environments. Fundamentally different from existing results, our adaptive DP method is driven by continuous-time DP algorithms, such as the continuous-time VI.</p> 
   
 </div>
-<div class="three">Three</div>
-<div class="four">Four</div>
+<div class="three">
+
+ </div>
+<div class="four"></div>
 </div>
 
 <h2>Robust DP and Robust ADP</h2>
