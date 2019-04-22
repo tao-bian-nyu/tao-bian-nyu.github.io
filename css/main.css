@@ -101,3 +101,7 @@ ul.posts li {
   grid-column:  2 / 3;
   grid-row:  4;
 }
+.nigh {
+  grid-column: 2;
+  grid-row: 4 / 6;
+}
