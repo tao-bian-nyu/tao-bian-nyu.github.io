@@ -3,4 +3,6 @@ layout: default
 title: About me
 ---
 
+<h1>{{ page.title }}</h1>
+
 Not ready.
