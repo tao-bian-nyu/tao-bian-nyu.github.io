@@ -84,11 +84,20 @@ ul.posts li {
   grid-column: 2 / 4;
   grid-row: 4 / 6;
 }
+
 .five {
-  grid-column: 2;
-  grid-row: 4;
+  grid-column: 1;
+  grid-row: 1 / 3;
 }
 .six {
+  grid-column: 2;
+  grid-row: 1 / 3;
+}
+.seven {
+  grid-column: 1;
+  grid-row: 4 / 6;
+}
+.eight {
   grid-column: 3;
-  grid-row: 4;
+  grid-row: 4 / 6;
 }
