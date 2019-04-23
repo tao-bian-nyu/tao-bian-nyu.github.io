@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Tao's Ph.D. defense presentation"
+title: "My Ph.D. defense presentation"
 date: 2017-04-13
 ---
 
