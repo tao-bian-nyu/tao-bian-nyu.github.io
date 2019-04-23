@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Reinforcement Learning Cheat Sheet"
-date: 2018-10-13
+date: 2018-10-01
 ---
 
 <p align="center">
