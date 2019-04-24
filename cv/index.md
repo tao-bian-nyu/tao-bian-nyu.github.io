@@ -6,7 +6,7 @@ title: "CV"
 
 # Tao Bian, Ph.D.
 
-#### <tbian@nyu.edu>, [GitHub](https://github.com/taobian89), [Linkedin](https://www.linkedin.com/in/tao-bian-a278717a), [Research Gate](https://www.researchgate.net/profile/Tao_Bian2)
+#### <taobian@outlook.com>, [GitHub](https://github.com/taobian89), [Linkedin](https://www.linkedin.com/in/tao-bian-a278717a), [Research Gate](https://www.researchgate.net/profile/Tao_Bian2)
 
 
 
