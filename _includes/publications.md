@@ -2,7 +2,7 @@
 
 1.  **T. Bian** and Z. P. Jiang, "Continuous-time robust dynamic programming," *SIAM Journal on Control and Optimization*, 2019, under review. ArXiv e-prints, abs/1804.04577
   
-2.  Y.-W. Wang, Y. Lei, **T. Bian**, and Z.-H. Guan, "Distributed control of nonlinear multi-agent systems with unknown and nonidentical control directions via event-triggered communication,\" *IEEE Transactions on Cybernetics*, 2019. Accepted.
+2.  Y.-W. Wang, Y. Lei, **T. Bian**, and Z.-H. Guan, "Distributed control of nonlinear multi-agent systems with unknown and nonidentical control directions via event-triggered communication,\" *IEEE Transactions on Cybernetics*, 2019. Accepted. doi: 10.1109/TCYB.2019.2908874
 
 3.  **T. Bian** and Z. P. Jiang, "Reinforcement learning for linear continuous-time systems: an incremental learning approach,\" *IEEE/CAA Journal of Automatica Sinica*, vol. 6, no 2, pp. 433--440, 2019.
 
