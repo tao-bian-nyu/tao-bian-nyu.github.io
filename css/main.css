@@ -56,6 +56,7 @@ ul.posts {
 
 ul.posts li {
     list-style: none;
+    margin: 10px auto 10px;
 }
 
 .bottom-wide {
