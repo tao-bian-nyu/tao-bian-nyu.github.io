@@ -21,10 +21,6 @@ My research interest is in dynamic programming theory with special focus on its 
 {% include topics.html %}
 	
 
-## Publication list:
-	
-{% include publications.md %}
-
 {% include lib/mathjax.html %}
 
 
