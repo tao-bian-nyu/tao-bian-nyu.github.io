@@ -61,14 +61,9 @@ title: "CV"
 
 ### Professional Service
 
-**The IEEE conferences on CIS & RAM, 2015**
-
-  * Member of the conference program committee
-  * Track cochair of invited session - New Results in Systems and Control
-
-**The 55th IEEE Conference on Decision and Control, 2016**
-
-  * Chair of regular session - Neural Networks
+* Associate Editor of IEEE Transactions on Neural Networks and Learning Systems, starting in 01/2020.
+* Chair of regular session - Neural Networks for the 55th IEEE Conference on Decision and Control, 2016.
+* Member of the conference program committee for the IEEE conferences on CIS & RAM, 2015.
 
 ### Referee Service
 
