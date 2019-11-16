@@ -18,7 +18,7 @@ In spite of their differences in many ways, artificial intelligence (AI) and con
 <!--- Our method is fundamentally based on RL theory. However, different from traditional RL methods, we take into account both stability and robustness in our algorithm. -->
 <div class="bottom-wide">
 <p align="center">
-<img src="/images/smart_circle.jpg" style="width:455px;height:247px;">
+<img src="/images/smart_circle.jpg" style="width:555px;height:247px;">
 </p>
 </div>
 
