@@ -4,7 +4,7 @@
 
 - **T. Bian**, D. M. Wolpert, and Z. P. Jiang, "Model-free robust optimal feedback mechanisms of biological motor control," *Neural Computation*, 2019. Accepted.
 
-- **T. Bian** and Z. P. Jiang, "Continuous-time robust dynamic programming," *SIAM Journal on Control and Optimization*, 2019. Accepted. ArXiv e-prints, abs/1804.04577
+- **T. Bian** and Z. P. Jiang, "Continuous-time robust dynamic programming," *SIAM Journal on Control and Optimization*, 2019. Accepted.
   
 - Y.-W. Wang, Y. Lei, **T. Bian**, and Z.-H. Guan, "Distributed control of nonlinear multi-agent systems with unknown and nonidentical control directions via event-triggered communication,\" *IEEE Transactions on Cybernetics*, 2019. Accepted. doi: 10.1109/TCYB.2019.2908874
 
