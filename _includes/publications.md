@@ -2,11 +2,11 @@
 
 ### Accepted Journals
 
-- **T. Bian**, D. M. Wolpert, and Z. P. Jiang, "Model-free robust optimal feedback mechanisms of biological motor control," *Neural Computation*, 2019. Accepted.
+- Y.-W. Wang, Y. Lei, **T. Bian**, and Z.-H. Guan, "Distributed control of nonlinear multi-agent systems with unknown and nonidentical control directions via event-triggered communication,\" *IEEE Transactions on Cybernetics*, 2020. Accepted. doi: 10.1109/TCYB.2019.2908874
+
+- **T. Bian**, D. M. Wolpert, and Z. P. Jiang, "Model-free robust optimal feedback mechanisms of biological motor control," *Neural Computation*, vol. 32, no 3, pp. 562–595, 2020.
 
 - **T. Bian** and Z. P. Jiang, "Continuous-time robust dynamic programming," *SIAM Journal on Control and Optimization*, vol. 67, no 6, pp. 4150–4174, 2019.
-  
-- Y.-W. Wang, Y. Lei, **T. Bian**, and Z.-H. Guan, "Distributed control of nonlinear multi-agent systems with unknown and nonidentical control directions via event-triggered communication,\" *IEEE Transactions on Cybernetics*, 2019. Accepted. doi: 10.1109/TCYB.2019.2908874
 
 - **T. Bian** and Z. P. Jiang, "Reinforcement learning for linear continuous-time systems: an incremental learning approach,\" *IEEE/CAA Journal of Automatica Sinica*, vol. 6, no 2, pp. 433--440, 2019.
 
