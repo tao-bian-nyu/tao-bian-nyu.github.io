@@ -68,6 +68,7 @@ ul.posts li {
   grid-template-columns: repeat(2, 1fr);
   grid-gap: 10px;
   grid-auto-rows: minmax(100px, auto);
+  grid-auto-columns: minmax(1000px, auto);
 }
 .one {
   grid-column: 1;
