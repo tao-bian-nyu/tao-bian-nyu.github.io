@@ -61,10 +61,7 @@ title: "CV"
 
 ### Professional Service
 
-* Associate Editor of IEEE Transactions on Neural Networks and Learning Systems, starting in 01/2020.
+* Associate Editor, IEEE Transactions on Neural Networks and Learning Systems, 01/2020--Present.
 * Chair of regular session - Neural Networks for the 55th IEEE Conference on Decision and Control, 2016.
 * Member of the conference program committee for the IEEE conferences on CIS & RAM, 2015.
 
-### Referee Service
-
-IEEE Transactions on Automatic Control, Automatica, Systems & Control Letters, SIAM Journal on Control and Optimization, IEEE Control Systems Letters, IEEE Transactions on Neural Networks and Learning Systems, IEEE Transactions on Cybernetics, IEEE Transactions on Smart Grid, IET Control Theory & Applications, IET Power Electronics, Applied Mathematics and Computation, International Journal of Robust and Nonlinear Control, Journal of the Franklin Institute, Neurocomputing, Journal of Control Theory and Applications, SCIENCE CHINA Information Sciences, Neural Computing and Applications, Applied Soft Computing, Journal of Control and Decision.
