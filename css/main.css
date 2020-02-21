@@ -65,7 +65,7 @@ ul.posts li {
 
 .wrapper {
   display: grid;
-  grid-template-columns: repeat(2, 400px);
+  grid-template-columns: repeat(2, 1ft);
   grid-gap: 10px;
   grid-auto-rows: minmax(100px, auto);
 }
