@@ -2,9 +2,9 @@
 
 ### Accepted Journals
 
-- Y.-W. Wang, Y. Lei, **T. Bian**, and Z.-H. Guan, "Distributed control of nonlinear multi-agent systems with unknown and nonidentical control directions via event-triggered communication,\" *IEEE Transactions on Cybernetics*, 2020. Accepted. doi: 10.1109/TCYB.2019.2908874
-
 - **T. Bian**, D. M. Wolpert, and Z. P. Jiang, "Model-free robust optimal feedback mechanisms of biological motor control," *Neural Computation*, vol. 32, no 3, pp. 562–595, 2020.
+
+- Y.-W. Wang, Y. Lei, **T. Bian**, and Z.-H. Guan, "Distributed control of nonlinear multi-agent systems with unknown and nonidentical control directions via event-triggered communication,\" *IEEE Transactions on Cybernetics*, vol. 50, no 5, pp. 1820-1832, 2020.
 
 - **T. Bian** and Z. P. Jiang, "Continuous-time robust dynamic programming," *SIAM Journal on Control and Optimization*, vol. 67, no 6, pp. 4150–4174, 2019.
 
