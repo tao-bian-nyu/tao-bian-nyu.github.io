@@ -26,7 +26,7 @@
 
 - **T. Bian**, Y. Jiang, and Z. P. Jiang, "Decentralized adaptive optimal control of large-scale systems with application to power systems," *IEEE Transactions on Industrial Electronics*, vol. 62, pp. 2439--2447, April 2015.
 
-- **T. Bian**, Y. Jiang, and Z. P. Jiang, "Adaptive dynamic programming and optimal control of nonlinear nonaffine systems," *Automatica*, vol. 50, pp. 2624--2632, 10 2014.
+- **T. Bian**, Y. Jiang, and Z. P. Jiang, "Adaptive dynamic programming and optimal control of nonlinear nonaffine systems," *Automatica*, vol. 50, pp. 2624--2632, 2014.
 
 - Y.-W. Wang, **T. Bian**, J.-W. Xiao, and Y. Huang, "Robust synchronization of complex switched networks with parametric uncertainties and two types of delays," *International Journal of Robust and Nonlinear Control*, vol. 23, no. 2, pp. 190--207, 2013.
 
