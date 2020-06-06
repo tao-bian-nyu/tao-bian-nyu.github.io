@@ -1,10 +1,12 @@
 # Publication list
 
-### Journals
+### Under Review
 
 - **T. Bian**, and Z. P. Jiang, "Temporal-differential learning in continuous environments," *arXiv preprint*, arXiv:2006.00997, 2020.
 
 - B. Pang, **T. Bian** and Z. P. Jiang, "Robust policy iteration for continuous-time linear quadratic regulation," *arXiv preprint*, arXiv:2005.09528, 2020.
+
+### Journals
 
 - **T. Bian**, D. M. Wolpert, and Z. P. Jiang, "Model-free robust optimal feedback mechanisms of biological motor control," *Neural Computation*, vol. 32, no 3, pp. 562–595, 2020.
 
