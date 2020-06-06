@@ -8,6 +8,8 @@ title: "CV"
 
 #### [GitHub](https://github.com/tao-bian-nyu), [Linkedin](https://www.linkedin.com/in/tao-bian-a278717a), [Research Gate](https://www.researchgate.net/profile/Tao_Bian2)
 
+<br/><br/>
+
 ### Experience
 
 **Bank of America Merrill Lynch**, New York, NY
