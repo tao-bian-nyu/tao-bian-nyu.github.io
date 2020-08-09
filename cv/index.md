@@ -8,10 +8,9 @@ title: "CV"
 
 #### [GitHub](https://github.com/tao-bian-nyu), [Linkedin](https://www.linkedin.com/in/tao-bian-a278717a), [Research Gate](https://www.researchgate.net/profile/Tao_Bian2)
 
-<!---
 &nbsp;
 ### Experience
-
+<!---
 **Bank of America Merrill Lynch**, New York, NY
 
 *Assistent vice president; Quantitative finance analyst*	&emsp;	06/2017--Present
