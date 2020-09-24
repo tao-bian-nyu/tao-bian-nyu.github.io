@@ -2,9 +2,13 @@
 
 ### Under Review
 
-- **T. Bian**, and Z. P. Jiang, "Temporal-differential learning in continuous environments," *arXiv preprint*, arXiv:2006.00997, 2020.
+- **T. Bian** and Z. P. Jiang, "Temporal-differential learning in continuous environments," *arXiv preprint*, arXiv:2006.00997, 2020.
 
-- B. Pang, **T. Bian** and Z. P. Jiang, "Robust policy iteration for continuous-time linear quadratic regulation," *arXiv preprint*, arXiv:2005.09528, 2020.
+- B. Pang, **T. Bian**, and Z. P. Jiang, "Robust policy iteration for continuous-time linear quadratic regulation," *arXiv preprint*, arXiv:2005.09528, 2020.
+
+- Z. P. Jiang, **T. Bian**, and W. Gao, "Learning-based control: A tutorial and some recent results," 2020.
+
+- **T. Bian** and Z. P. Jiang, "Reinforcement learning and adaptive optimal control for continuous-time nonlinear systems: A value iteration approach," 2020.
 
 ### Journals
 
