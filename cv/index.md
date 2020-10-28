@@ -6,8 +6,6 @@ title: "CV"
 
 # Tao Bian, Ph.D.
 
-#### [GitHub](https://github.com/tao-bian-nyu), [Research Gate](https://www.researchgate.net/profile/Tao_Bian2)
-
 &nbsp;
 ### Experience
 <!---
