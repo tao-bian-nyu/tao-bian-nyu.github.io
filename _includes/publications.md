@@ -4,13 +4,14 @@
 
 - **T. Bian** and Z. P. Jiang, "Temporal-differential learning in continuous environments," *arXiv preprint*, arXiv:2006.00997, 2020.
 
-- B. Pang, **T. Bian**, and Z. P. Jiang, "Robust policy iteration for continuous-time linear quadratic regulation," *arXiv preprint*, arXiv:2005.09528, 2020.
-
-- Z. P. Jiang, **T. Bian**, and W. Gao, "Learning-based control: A tutorial and some recent results," 2020.
-
-- **T. Bian** and Z. P. Jiang, "Reinforcement learning and adaptive optimal control for continuous-time nonlinear systems: A value iteration approach," 2020.
 
 ### Journals
+
+- **T. Bian** and Z. P. Jiang, "Reinforcement learning and adaptive optimal control for continuous-time nonlinear systems: A value iteration approach," *IEEE transactions on neural networks and learning systems*, doi: 10.1109/TNNLS.2020.3045087., 2021.
+
+- B. Pang, **T. Bian**, and Z. P. Jiang, "Robust policy iteration for continuous-time linear quadratic regulation," *IEEE Transactions on Automatic Control*, doi: 10.1109/TAC.2021.3085510., 2021.
+
+- Z. P. Jiang, **T. Bian**, and W. Gao, "Learning-based control: A tutorial and some recent results," *Foundations and Trends in Systems and Control*, vol. 8, no 3, pp. 176-284, 2020.
 
 - **T. Bian**, D. M. Wolpert, and Z. P. Jiang, "Model-free robust optimal feedback mechanisms of biological motor control," *Neural Computation*, vol. 32, no 3, pp. 562–595, 2020.
 
