@@ -56,6 +56,7 @@ title: "CV"
 ### Professional Service
 
 * Associate Editor, IEEE Transactions on Neural Networks and Learning Systems, 01/2020--Present.
+* Editorial board member of Frontiers in Control Engineering: AI and Machine Learning Control section, 10/2021--Present.
 * Chair of regular session - Neural Networks for the 55th IEEE Conference on Decision and Control, 2016.
 * Member of the conference program committee for the IEEE conferences on CIS & RAM, 2015.
 
