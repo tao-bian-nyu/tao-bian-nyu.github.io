@@ -7,17 +7,6 @@ title: "CV"
 # Tao Bian, Ph.D.
 
 &nbsp;
-### Experience
-<!---
-**Bank of America Merrill Lynch**, New York, NY
-
-*Assistent vice president; Quantitative finance analyst*	&emsp;	06/2017--Present
--->
-
-**New York University, Tandon School of Engineering**, Brooklyn, NY
-
-*Research assistant*	&emsp;	09/2012--05/2017
-
 ### Education
 
 **New York University, Tandon School of Engineering**, Brooklyn, NY
@@ -25,6 +14,7 @@ title: "CV"
 *Ph.D. in Electrical Engineering*, 	&emsp;	05/2017
 
   * Dissertation Topic: Biologically inspired adaptive optimal control and learning
+  * Research Interests: System \& Control Theory, Reinforcement Learning, Stochastic Optimal Control and Dynamic Programming
   * Advisor: Prof. Zhong-Ping Jiang
 
 *M.S. in Electrical Engineering*, 	&emsp;	05/2014
