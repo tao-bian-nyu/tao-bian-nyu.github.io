@@ -1,4 +1,4 @@
-## Publication list
+# Publication list
 
 [Google Scholar](https://scholar.google.com/citations?user=QkOyBU0AAAAJ&hl=en&oi=ao)
 
