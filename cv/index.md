@@ -6,8 +6,7 @@ title: "CV"
 
 # Tao Bian, Ph.D.
 
-&nbsp;
-### Education
+## Education
 
 **New York University, Tandon School of Engineering**, Brooklyn, NY
 
@@ -27,7 +26,7 @@ title: "CV"
 *B.E. in Automation*,	&emsp;	06/2012
 
 
-### Honors and Awards
+## Honors and Awards
 
   * Alexander Hessel Award for the Best Ph.D. Dissertation in Electrical and Computer Engineering at NYU Tandon school of engineering.	&emsp;	(05/2018)
 
@@ -43,7 +42,7 @@ title: "CV"
 
   * Excellent Bachelor Thesis in Hubei Province, China.	&emsp;	(06/2012)
 
-### Professional Service
+## Professional Service
 
 * Associate Editor, IEEE Transactions on Neural Networks and Learning Systems, 01/2020--Present.
 * Editorial board member, Frontiers in Control Engineering: AI and Machine Learning Control section, 10/2021--Present.
